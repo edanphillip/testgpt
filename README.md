@@ -1,7 +1,7 @@
 This is a simple Next.js project which implements the OpenAI GPT api to run queries and recieve response from chatgpt.
 ## Getting Started
 
-First, run the development server:
+First, install required dependencies. Then, run the development server:
 
 ```bash
 npm install
